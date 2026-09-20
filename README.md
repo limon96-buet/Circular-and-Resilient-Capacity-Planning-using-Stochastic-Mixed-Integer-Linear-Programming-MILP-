@@ -1,1 +1,1 @@
-# Circular-and-Resilient-Capacity-Planning-using-Stochastic-Mixed-Integer-Linear-Programming-MILP-
+# Circular-and-Resilient-Capacity-Planning-using-Stochastic-Mixed-Integer-Linear-Programming (MILP)
